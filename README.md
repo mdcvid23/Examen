@@ -10,8 +10,8 @@ Clonar proyecto desde el repo
 
 Una vez descargado el proyecto, inicie el servidor de desarrollo local de Laravel usando serveel comando de Laravel Artisan:
 
-cd example
+```cd example```
  
-php artisan serve
+```php artisan serve```
 
 Acceder a /create
